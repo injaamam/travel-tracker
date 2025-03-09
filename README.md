@@ -1,6 +1,6 @@
 # Travel Tracker
 
-This project is a travel tracking application.
+This project is a travel tracking application. 
 
 ## Prerequisites
 
